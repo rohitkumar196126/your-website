@@ -1,0 +1,7 @@
+# robots.txt for Delish Bites
+# Replace https://your-domain.com with your real live domain after deployment.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://your-domain.com/sitemap.xml
